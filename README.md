@@ -1,1 +1,4 @@
-# Customer-Segmentation-Banking
+## ☂️🌂🌞 Customer-Segmentation-Banking 🌞🌂☂️
+
+## ☂️🌂🌞 Licences 🌞🌂☂️
+Copyright by Diantya Pitaloka
