@@ -17,7 +17,12 @@ Exclude customers under 21 as they are not relevant to the target analysis scope
 
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Exploration Data Set 🌞🌂☂️
+
+
+
+<img width="397" height="139" alt="image" src="https://github.com/user-attachments/assets/71ee7999-09fd-43b3-a447-caa589dbf65d" />
+
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
