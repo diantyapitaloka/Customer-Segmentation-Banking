@@ -25,7 +25,9 @@ Online bank has provided several Dataset containing customer-level information, 
 
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Convert data type 🌞🌂☂️
+ We checked whether any columns have incorrect data types and change them with df['col'] = df['col'].astype(type), as this can significantly impact the accuracy of the analysis. We updated the data types of account_id, MOB, and birth_date to ensure they align with their appropriate formats.
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
