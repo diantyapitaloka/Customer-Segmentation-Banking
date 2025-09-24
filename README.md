@@ -31,7 +31,10 @@ Online bank has provided several Dataset containing customer-level information, 
 <img width="449" height="197" alt="image" src="https://github.com/user-attachments/assets/657c6621-7e3e-4dc4-bb7f-0323f78ed190" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Checking unique value and handle typo data 🌞🌂☂️
+
+We checked unique values in categorical columns. account_id has many unique entries, representing registered customers. account_activity_level and customer_value_level were validated against the data dictionary.
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
