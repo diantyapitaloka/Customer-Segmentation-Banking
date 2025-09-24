@@ -28,6 +28,8 @@ Online bank has provided several Dataset containing customer-level information, 
 ## ☂️🌂🌞 Convert data type 🌞🌂☂️
  We checked whether any columns have incorrect data types and change them with df['col'] = df['col'].astype(type), as this can significantly impact the accuracy of the analysis. We updated the data types of account_id, MOB, and birth_date to ensure they align with their appropriate formats.
 
+<img width="449" height="197" alt="image" src="https://github.com/user-attachments/assets/657c6621-7e3e-4dc4-bb7f-0323f78ed190" />
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
