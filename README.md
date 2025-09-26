@@ -75,6 +75,7 @@ df_sales_dc
 
 Total sales in the last 3 years is €405,580,520. That figure can be compared against business targets (if available) or with the previous period (if such data exists).
 
+<img width="430" height="116" alt="image" src="https://github.com/user-attachments/assets/0546cfe4-87a0-4e8d-9a11-18c56188fc15" />
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
