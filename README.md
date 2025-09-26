@@ -38,7 +38,11 @@ We checked unique values in categorical columns. account_id has many unique entr
 <img width="562" height="173" alt="image" src="https://github.com/user-attachments/assets/058dc775-1599-4371-9bc2-a3d58be64292" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Checking missing value 🌞🌂☂️
+
+We checked for missing values to identify any incomplete data within the dataset. We filled the missing values in avg_sales_36M with 0, as it indicates no transactions occurred, and this data will be needed for further analysis.
+
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
