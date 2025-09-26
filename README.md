@@ -35,6 +35,8 @@ Online bank has provided several Dataset containing customer-level information, 
 
 We checked unique values in categorical columns. account_id has many unique entries, representing registered customers. account_activity_level and customer_value_level were validated against the data dictionary.
 
+<img width="562" height="173" alt="image" src="https://github.com/user-attachments/assets/058dc775-1599-4371-9bc2-a3d58be64292" />
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
