@@ -52,7 +52,24 @@ We checked for duplicates based on account_id and found duplicate entries. There
 
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Remove age less than 21 🌞🌂☂️
+We will remove customers who are under 21 years old to align with the analysis requirements.
+
+```
+# Determine the cutoff date
+cutoff_date = datetime(2023, 5, 31)
+
+# Calculate age using vectorization
+df_sales_dc['age'] = (cutoff_date - df_sales_dc['birth_date']).dt.days // 365
+
+# Filter data (remove ages below 21)
+df_sales_dc = df_sales_dc[df_sales_dc['age'] >= 21]
+
+# Show the result
+df_sales_dc
+
+```
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
