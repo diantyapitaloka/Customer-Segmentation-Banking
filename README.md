@@ -45,7 +45,11 @@ We checked for missing values to identify any incomplete data within the dataset
 <img width="404" height="209" alt="image" src="https://github.com/user-attachments/assets/5a72976c-8d6c-4fee-b7fd-a822dff25d1b" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Remove duplicate data 🌞🌂☂️
+We checked for duplicates based on account_id and found duplicate entries. Therefore, duplicates need to be removed to ensure each account_id is unique. We need to remove 72 rows duplicate from 12,558 rows  to 12486 rows based on the `account_id` since 1 `account_id` in user should be only 1 per `account_id`.
+
+
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
