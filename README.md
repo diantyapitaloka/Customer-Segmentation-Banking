@@ -80,6 +80,10 @@ Total sales in the last 3 years is €405,580,520. That figure can be compared a
 
 ## ☂️🌂🌞 Clients with no sales 🌞🌂☂️
 
+Over the past 36 months, 93.91% of the activity resulted in sales — a strong indicator of market demand and effective conversion.
+
+Only 6.09% showed no sales, suggesting minimal friction in the sales funnel.
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
