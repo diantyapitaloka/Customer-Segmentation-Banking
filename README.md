@@ -87,7 +87,7 @@ Only 6.09% showed no sales, suggesting minimal friction in the sales funnel.
 <img width="255" height="191" alt="image" src="https://github.com/user-attachments/assets/6bb33c8e-6248-4f6d-aab6-d18cc3eec2b1" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Level X is the most transacting 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
