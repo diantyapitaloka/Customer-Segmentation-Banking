@@ -89,6 +89,10 @@ Only 6.09% showed no sales, suggesting minimal friction in the sales funnel.
 
 ## ☂️🌂🌞 Level X is the most transacting 🌞🌂☂️
 
+Despite similar recency in transactions across all activity levels (18-19 months), there’s a clear difference in engagement: Level X clients are the most active, averaging 3.28 transactions, while Level Z clients are the least active, with just 1.22 transactions. 
+This suggests that activity level is driven more by transaction frequency over time than by recent transactions.
+
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
