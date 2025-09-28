@@ -104,6 +104,8 @@ Male and female customers generate almost the same median profit, but female cus
 
 While both genders perform similarly on average, female customers have more high-profit outliers — a potential segment for upselling or premium targeting.
 
+<img width="203" height="293" alt="image" src="https://github.com/user-attachments/assets/e7cd28ac-1fd3-45c0-90b6-624225f288d4" />
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
