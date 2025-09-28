@@ -55,6 +55,8 @@ We checked for duplicates based on account_id and found duplicate entries. There
 ## ☂️🌂🌞 Remove age less than 21 🌞🌂☂️
 We will remove customers who are under 21 years old to align with the analysis requirements.
 
+The code as below :
+
 ```
 # Determine the cutoff date
 cutoff_date = datetime(2023, 5, 31)
