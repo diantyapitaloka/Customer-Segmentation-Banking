@@ -115,6 +115,8 @@ While both genders perform similarly on average, female customers have more high
 This indicates a balanced contribution to total sales, with no single generation dominating.
 <img width="2134" height="132" alt="image" src="https://github.com/user-attachments/assets/7dd28a50-b067-40bb-8b90-dfd5e17922b1" />
 
+![Uploading image.png…]()
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
