@@ -107,7 +107,8 @@ While both genders perform similarly on average, female customers have more high
 <img width="203" height="293" alt="image" src="https://github.com/user-attachments/assets/e7cd28ac-1fd3-45c0-90b6-624225f288d4" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Proportion of total sales based on generations <img width="1461" height="133" alt="image" src="https://github.com/user-attachments/assets/06c8a2a0-2053-4a42-9384-76e5e80466f3" />
+ 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
