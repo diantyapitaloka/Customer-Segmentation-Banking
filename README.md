@@ -121,5 +121,19 @@ While both genders perform similarly on average, female customers have more high
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
+## ☂️🌂🌞 A 🌞🌂☂️
+
+## ☂️🌂🌞 A 🌞🌂☂️
+
+
+## ☂️🌂🌞 A 🌞🌂☂️
+
+## ☂️🌂🌞 A 🌞🌂☂️
+
+
+## ☂️🌂🌞 A 🌞🌂☂️
+
+## ☂️🌂🌞 A 🌞🌂☂️
+
 ## ☂️🌂🌞 Licences 🌞🌂☂️
 Copyright by Diantya Pitaloka
