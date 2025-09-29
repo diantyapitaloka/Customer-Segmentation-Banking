@@ -107,15 +107,14 @@ While both genders perform similarly on average, female customers have more high
 <img width="203" height="293" alt="image" src="https://github.com/user-attachments/assets/e7cd28ac-1fd3-45c0-90b6-624225f288d4" />
 
 
-## ☂️🌂🌞 Proportion of total sales based on generations <img width="1461" height="133" alt="image" src="https://github.com/user-attachments/assets/06c8a2a0-2053-4a42-9384-76e5e80466f3" />
- 🌞🌂☂️
+## ☂️🌂🌞 Proportion of total sales based on generations 🌞🌂☂️
 
- Sales are fairly evenly distributed across generations, with Gen Z leading slightly at 25.6%, followed closely by Boomers and Gen X at 25.5%, and Gen Y at 23.5%. 
+Sales are fairly evenly distributed across generations, with Gen Z leading slightly at 25.6%, followed closely by Boomers and Gen X at 25.5%, and Gen Y at 23.5%. 
 
 This indicates a balanced contribution to total sales, with no single generation dominating.
-<img width="2134" height="132" alt="image" src="https://github.com/user-attachments/assets/7dd28a50-b067-40bb-8b90-dfd5e17922b1" />
 
-![Uploading image.png…]()
+<img width="234" height="254" alt="image" src="https://github.com/user-attachments/assets/66a1058e-cd1e-4eb9-8687-e846fcbd843f" />
+
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
