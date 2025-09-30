@@ -123,6 +123,9 @@ Gen X takes the lead! With the highest share of average sales at 27.1%, Gen X sh
 Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly reflecting different spending habits or lifestyle priorities.
 
 
+<img width="230" height="254" alt="image" src="https://github.com/user-attachments/assets/04f4487e-6584-4f9b-9781-999bdf454a86" />
+
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
