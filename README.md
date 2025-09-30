@@ -118,6 +118,9 @@ This indicates a balanced contribution to total sales, with no single generation
 
 
 ## ☂️🌂🌞 Proportion of avg sales based on generations 🌞🌂☂️
+Gen X takes the lead! With the highest share of average sales at 27.1%, Gen X shows strong and consistent purchasing power. Gen Y follows closely at 26.2%, highlighting their value as a core consumer segment. 
+
+Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly reflecting different spending habits or lifestyle priorities.
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
