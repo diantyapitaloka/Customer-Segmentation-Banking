@@ -117,7 +117,7 @@ This indicates a balanced contribution to total sales, with no single generation
 
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Proportion of avg sales based on generations 🌞🌂☂️
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
