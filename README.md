@@ -126,7 +126,7 @@ Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly r
 <img width="230" height="254" alt="image" src="https://github.com/user-attachments/assets/04f4487e-6584-4f9b-9781-999bdf454a86" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Proportion of count of sales based on generations 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
