@@ -135,7 +135,7 @@ Interestingly, Gen Z accounts for only 1.3%, signaling a major engagement gap.
 <img width="232" height="254" alt="image" src="https://github.com/user-attachments/assets/c258ff61-474a-4a2a-8012-410a5f5c09bd" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Increase marketing vs sales performance 🌞🌂☂️
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
