@@ -136,6 +136,7 @@ Interestingly, Gen Z accounts for only 1.3%, signaling a major engagement gap.
 
 
 ## ☂️🌂🌞 Increase marketing vs sales performance 🌞🌂☂️
+An increased number of direct promo messages generally leads to higher total sales, especially after surpassing 10 messages. However, fluctuations at certain points suggest that message quality, timing, or audience targeting may also significantly influence effectiveness.
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
