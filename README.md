@@ -148,6 +148,12 @@ K-Means is a simple, fast, and easy-to-interpret method, making it ideal for seg
 
 ## ☂️🌂🌞 Data Preprocessing 🌞🌂☂️
 
+To increase customer engagement with Bank products, we will segment customers based on total_sales_L36M and cnt_sales_L36M. These features were chosen as segmentation criteria due to their strong relevance to product usage at Bank.
+Total Sales (total_sales_L36M): Represents the total amount spent by a customer over the last 36 months. Customers with higher total sales are likely more engaged, making them prime targets for marketing campaigns.
+Count of Sales (cnt_sales_L36M): Represents the number of transactions over the last 36 months. Frequent buyers are typically loyal customers, and segmenting by this feature helps RevoBank focus on high-frequency users for additional products or services.
+
+
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
