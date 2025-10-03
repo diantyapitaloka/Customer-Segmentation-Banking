@@ -141,7 +141,7 @@ An increased number of direct promo messages generally leads to higher total sal
 <img width="325" height="194" alt="image" src="https://github.com/user-attachments/assets/016112b5-70e4-46b2-b206-1833f1a2e736" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 K-Means Clustering 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
