@@ -152,6 +152,7 @@ To increase customer engagement with Bank products, we will segment customers ba
 Total Sales (total_sales_L36M): Represents the total amount spent by a customer over the last 36 months. Customers with higher total sales are likely more engaged, making them prime targets for marketing campaigns.
 Count of Sales (cnt_sales_L36M): Represents the number of transactions over the last 36 months. Frequent buyers are typically loyal customers, and segmenting by this feature helps RevoBank focus on high-frequency users for additional products or services.
 
+<img width="164" height="201" alt="image" src="https://github.com/user-attachments/assets/ec7130f0-1dab-4ba0-bb78-4dc73783e2d3" />
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
