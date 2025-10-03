@@ -146,7 +146,7 @@ An increased number of direct promo messages generally leads to higher total sal
 K-Means is a simple, fast, and easy-to-interpret method, making it ideal for segmenting customers based on their behavior and targeting marketing strategies more effectively.
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Data Preprocessing 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
