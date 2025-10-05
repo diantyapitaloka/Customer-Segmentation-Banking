@@ -159,6 +159,9 @@ Count of Sales (cnt_sales_L36M): Represents the number of transactions over the 
 
 We received the recommendation to use RobustScaler as the method. RobustScaler is ideal for datasets with outliers because it scales the data based on the median and interquartile range (IQR), making it more robust to extreme values. 
 
+<img width="191" height="195" alt="image" src="https://github.com/user-attachments/assets/1729d3a5-eb90-4319-a7b8-21abed744196" />
+
+
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
