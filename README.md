@@ -164,6 +164,7 @@ We received the recommendation to use RobustScaler as the method. RobustScaler i
 
 
 ## ☂️🌂🌞 Determine Cluster Number 🌞🌂☂️
+Choosing k = 4 is ideal because it hits the elbow point where adding more clusters yields minimal improvement, maintains a strong silhouette score for clear separation, offers meaningful insights without overcomplicating the model, and balances accuracy with interpretability.
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
