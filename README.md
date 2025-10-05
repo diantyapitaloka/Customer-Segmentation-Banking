@@ -155,7 +155,7 @@ Count of Sales (cnt_sales_L36M): Represents the number of transactions over the 
 <img width="164" height="201" alt="image" src="https://github.com/user-attachments/assets/ec7130f0-1dab-4ba0-bb78-4dc73783e2d3" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Robust Scaler 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
