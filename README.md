@@ -167,6 +167,9 @@ We received the recommendation to use RobustScaler as the method. RobustScaler i
 Choosing k = 4 is ideal because it hits the elbow point where adding more clusters yields minimal improvement, maintains a strong silhouette score for clear separation, offers meaningful insights without overcomplicating the model, and balances accuracy with interpretability.
 
 
+<img width="208" height="307" alt="image" src="https://github.com/user-attachments/assets/8eb26cda-5e76-44d6-ad93-ca9dd1de29a1" />
+
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
