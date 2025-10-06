@@ -172,6 +172,13 @@ Choosing k = 4 is ideal because it hits the elbow point where adding more cluste
 
 ## ☂️🌂🌞 K-Means Clustering Modelling 🌞🌂☂️
 
+Cluster 0 – "Dormant Shoppers" : Customers with low frequency and low total sales. (Focus: Re-engagement through promotions and reminders)
+Cluster 1 – "Power Buyers" :  Most active and loyal customers with the highest total sales. (Focus: Retention, exclusive rewards, upselling)
+Cluster 2 – "Big Spenders” : Infrequent shoppers but with high purchase amounts. (Focus: Increase purchase frequency with targeted incentives)
+Cluster 3 – "Value Seekers" : Low transaction frequency but higher spending than Cluster 0. (Focus: Personalized high-value offers and loyalty building)
+
+
+
 ## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
