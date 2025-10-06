@@ -170,7 +170,7 @@ Choosing k = 4 is ideal because it hits the elbow point where adding more cluste
 <img width="208" height="307" alt="image" src="https://github.com/user-attachments/assets/8eb26cda-5e76-44d6-ad93-ca9dd1de29a1" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 K-Means Clustering Modelling 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
