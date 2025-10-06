@@ -177,6 +177,7 @@ Cluster 1 – "Power Buyers" :  Most active and loyal customers with the highest
 Cluster 2 – "Big Spenders” : Infrequent shoppers but with high purchase amounts. (Focus: Increase purchase frequency with targeted incentives)
 Cluster 3 – "Value Seekers" : Low transaction frequency but higher spending than Cluster 0. (Focus: Personalized high-value offers and loyalty building)
 
+<img width="229" height="296" alt="image" src="https://github.com/user-attachments/assets/c4c7f966-cb51-4f22-8057-5d1519481f02" />
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
