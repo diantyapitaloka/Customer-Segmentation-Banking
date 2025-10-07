@@ -184,6 +184,7 @@ Cluster 3 – "Value Seekers" : Low transaction frequency but higher spending th
 
 Based on the no-sales proportion analysis, only Cluster 0 shows a potential issue with 13.7% of entries generating no sales, indicating underperforming or less relevant products or segments. In contrast, Clusters 1, 2, and 3 demonstrate strong performance with 0% no-sales proportion, making them ideal targets for retention and growth strategies due to their consistent contribution to sales.
 
+<img width="559" height="70" alt="image" src="https://github.com/user-attachments/assets/b81d1e28-ea47-44cd-85e1-3648f1a61681" />
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
