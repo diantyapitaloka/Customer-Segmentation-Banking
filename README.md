@@ -194,12 +194,15 @@ Based on the no-sales proportion analysis, only Cluster 0 shows a potential issu
 
 ## ☂️🌂🌞 Insight and Recommendation 🌞🌂☂️
 
-## ☂️🌂🌞 A 🌞🌂☂️
+- The goal of these recommendations is to increase Bank’s credit card product usage.
+- By targeting clusters with the right offers, we’ll align with the Performance Management team’s objective to increase customer engagement and drive higher product adoption.
+- For Cluster 1, Cluster 2, and Cluster 3, the focus is on personalized offers and upselling to high-value users.
+- For Cluster 0, the focus should be on re-engagement and boosting transaction frequency to activate customers who haven't engaged recently.
+
+<img width="1996" height="188" alt="image" src="https://github.com/user-attachments/assets/343e710e-24d4-4e10-9b9d-bb3b2d46e79e" />
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
 
-## ☂️🌂🌞 A 🌞🌂☂️
 
 ## ☂️🌂🌞 Licences 🌞🌂☂️
 Copyright by Diantya Pitaloka
