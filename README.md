@@ -192,7 +192,7 @@ Based on the no-sales proportion analysis, only Cluster 0 shows a potential issu
 
 
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Insight and Recommendation 🌞🌂☂️
 
 ## ☂️🌂🌞 A 🌞🌂☂️
 
