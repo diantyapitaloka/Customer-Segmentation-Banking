@@ -186,7 +186,7 @@ Based on the no-sales proportion analysis, only Cluster 0 shows a potential issu
 
 <img width="559" height="70" alt="image" src="https://github.com/user-attachments/assets/b81d1e28-ea47-44cd-85e1-3648f1a61681" />
 
-## ☂️🌂🌞 A 🌞🌂☂️
+## ☂️🌂🌞 Details Action 🌞🌂☂️
 
 
 ## ☂️🌂🌞 A 🌞🌂☂️
