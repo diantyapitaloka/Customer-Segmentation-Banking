@@ -1,7 +1,7 @@
 ## ☂️🌂🌞 Customer-Segmentation-Banking 🌞🌂☂️
 
 ## ☂️🌂🌞 Analytical Object🌞🌂☂️
- The goal of this analysis is to understand customer segmentation, create user personas, and identify business opportunities to increase engagement with Bank financial product.
+The goal of this analysis project is to understand customer segmentation, create user personas, and identify business opportunities to increase engagement with Bank financial product.
 
 1) CONVERT THE DATA TYPE
 Check all data types to ensure they align with the data dictionary.
