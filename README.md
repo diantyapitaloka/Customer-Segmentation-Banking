@@ -100,7 +100,7 @@ This suggests that activity level is driven more by transaction frequency over t
 
 ## ☂️🌂🌞 Comparing profits of gender 🌞🌂☂️
 
-Male and female customers generate almost the same median profit, but female customers show a slightly higher upper range and maximum value — reaching up to 5,865.6 vs. 5,400 for males.
+For comparing profits of gender, Male and female customers generate almost the same median profit, but female customers show a slightly higher upper range and maximum value — reaching up to 5,865.6 vs. 5,400 for males.
 
 While both genders perform similarly on average, female customers have more high-profit outliers — a potential segment for upselling or premium targeting.
 
