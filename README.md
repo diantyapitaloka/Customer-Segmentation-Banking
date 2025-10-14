@@ -109,7 +109,7 @@ While both genders perform similarly on average, female customers have more high
 
 ## ☂️🌂🌞 Proportion of total sales based on generations 🌞🌂☂️
 
-The proportion of total sales, Sales are fairly evenly distributed across generations, with Gen Z leading slightly at 25.6%, followed closely by Boomers and Gen X at 25.5%, and Gen Y at 23.5%. 
+The proportion of total sales, sales are fairly evenly distributed across generations, with Gen Z leading slightly at 25.6%, followed closely by Boomers and Gen X at 25.5%, and Gen Y at 23.5%. 
 
 This indicates a balanced contribution to total sales, with no single generation dominating.
 
