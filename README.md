@@ -191,6 +191,8 @@ Based on the no-sales proportion analysis, only Cluster 0 shows a potential issu
 
 ## ☂️🌂🌞 Details Action 🌞🌂☂️
 
+In AI and data analysis, “Details Action” refers to a specific, well-defined step or behavior that the system takes in response to certain inputs or conditions, usually after a broader decision has been made. It focuses on how the AI executes a task at a granular level—such as retrieving particular data, generating specific outputs, or modifying elements within a process—to achieve a desired outcome. By breaking tasks into detailed actions, AI systems can operate more accurately, automate complex workflows, and provide clearer traceability in decision-making.
+
 <img width="521" height="176" alt="image" src="https://github.com/user-attachments/assets/ecafa05b-80d4-47ae-8113-18247d63bf77" />
 
 
