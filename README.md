@@ -1,6 +1,6 @@
 ## ☂️🌂🌞 Customer-Segmentation-Banking 🌞🌂☂️ 
 
-Customer Segmentation in Banking refers to the process of dividing bank customers into distinct groups based on shared characteristics such as financial behavior, demographics, product usage, income level, risk profile, and overall profitability. Customer segmentation in Banking need detail.
+Customer Segmentation in Banking refers to the process of dividing bank customers into distinct groups based on shared characteristics such as financial behavior, demographics, product usage, income level, risk profile, and overall profitability. Customer segmentation in Banking need more detailed calculation.
 
 ## ☂️🌂🌞 Analytical Object🌞🌂☂️
 The goal of this analysis project is to understand customer segmentation, create user personas, and identify business opportunities to increase engagement with Bank financial product. Here is the objectives below:
