@@ -5,6 +5,7 @@ The primary objective of this analysis is to thoroughly examine customer segment
 Furthermore, the insights gained from this research will be used to uncover new business opportunities that can strengthen customer engagement and encourage greater adoption of DaintyBank’s financial products. Ultimately, this analysis supports data-driven decision-making, optimizes product offerings, and enhances long-term customer relationships.
 
 ### Dataset :
+Please find dataset below:
 
 1. DaintyBank : https://drive.google.com/file/d/1dXE7wrsL37LhWl962gqluv6ZOuEnn_zG/view?usp=drive_link
 2. Dictionary : https://docs.google.com/spreadsheets/d/1YO7D80qVsSC73J1ERl-GqxYYLLDqdjE5/edit?usp=sharing&ouid=108812084155815508815&rtpof=true&sd=true
