@@ -1,6 +1,28 @@
-## ☂️🌂🌞 Customer-Segmentation-Banking 🌞🌂☂️ 
+## ☂️🌂🌞 Market-Segmentation-Banking 🌞🌂☂️ 
 
-Customer Segmentation in Banking refers to the process of dividing bank customers into distinct groups based on shared characteristics such as financial behavior, demographics, product usage, income level, risk profile, and overall profitability. Customer segmentation in Banking need more detailed calculation.
+The primary objective of this analysis is to thoroughly examine customer segmentation to better understand the characteristics, behaviors, and purchasing patterns of DaintyBank’s customer base. By summarizing sales performance across different customer groups, this study aims to identify which segments contribute the most to revenue and which require further attention. Additionally, the analysis seeks to develop comprehensive customer personas that represent key target audiences, enabling more personalized and effective marketing strategies.
+
+Furthermore, the insights gained from this research will be used to uncover new business opportunities that can strengthen customer engagement and encourage greater adoption of DaintyBank’s financial products. Ultimately, this analysis supports data-driven decision-making, optimizes product offerings, and enhances long-term customer relationships.
+
+###Dataset :
+
+1. DaintyBank : https://drive.google.com/file/d/1dXE7wrsL37LhWl962gqluv6ZOuEnn_zG/view?usp=drive_link
+2. Dictionary : https://docs.google.com/spreadsheets/d/1YO7D80qVsSC73J1ERl-GqxYYLLDqdjE5/edit?usp=sharing&ouid=108812084155815508815&rtpof=true&sd=true
+
+###Outline  :
+
+1. Data Extraction
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Customer Segmentation
+5. Insights and Business Recommendation
+
+###Objective
+
+1. Identify customer segmentation to increase engagement financial product
+2. Optimize which insights can attract the increase engagement financial product
+
+
 
 ## ☂️🌂🌞 Analytical Object🌞🌂☂️
 The goal of this analysis project is to understand customer segmentation, create user personas, and identify business opportunities to increase engagement with Bank financial product. Here is the objectives below:
