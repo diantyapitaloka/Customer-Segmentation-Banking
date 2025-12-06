@@ -1,4 +1,4 @@
-## ☂️🌂🌞 Market-Segmentation-Banking 🌞🌂☂️ 
+## ☂️🌂🌞 Market Segmentation Banking 🌞🌂☂️ 
 
 The primary objective of this analysis is to thoroughly examine customer segmentation to better understand the characteristics, behaviors, and purchasing patterns of DaintyBank’s customer base. By summarizing sales performance across different customer groups, this study aims to identify which segments contribute the most to revenue and which require further attention. Additionally, the analysis seeks to develop comprehensive customer personas that represent key target audiences, enabling more personalized and effective marketing strategies.
 
