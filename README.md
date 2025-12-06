@@ -69,14 +69,14 @@ We checked for missing values to identify any incomplete data within the dataset
 <img width="404" height="209" alt="image" src="https://github.com/user-attachments/assets/5a72976c-8d6c-4fee-b7fd-a822dff25d1b" />
 
 
-## ☂️🌂🌞 Remove duplicate data 🌞🌂☂️
+## ☂️🌂🌞 Remove Duplicate Data 🌞🌂☂️
 We checked for duplicates based on account_id and found duplicate entries. Therefore, duplicates need to be removed to ensure each account_id is unique. We need to remove 72 rows duplicate from 12,558 rows  to 12486 rows based on the `account_id` since 1 `account_id` in user should be only 1 per `account_id`. Here is the objectives below:
 
 <img width="271" height="162" alt="image" src="https://github.com/user-attachments/assets/7c9a7b3f-e9b8-4dfc-ba26-d33f56615f22" />
 
 
 
-## ☂️🌂🌞 Remove age less than 21 🌞🌂☂️
+## ☂️🌂🌞 Remove Age Less Than 21 🌞🌂☂️
 We will remove customers who are under 21 years old to align with the analysis requirements.
 
 The code as below :
@@ -97,7 +97,7 @@ df_sales_dc
 ```
 
 
-## ☂️🌂🌞 Total Sales in the past 3 Years 🌞🌂☂️
+## ☂️🌂🌞 Total Sales in The Past 3 Years 🌞🌂☂️
 
 Total sales in the last 3 years is €405,580,520. That figure can be compared against business targets (if available) or with the previous period (if such data exists). Here is the objectives below:
 
@@ -105,7 +105,7 @@ Total sales in the last 3 years is €405,580,520. That figure can be compared a
 <img width="430" height="116" alt="image" src="https://github.com/user-attachments/assets/0546cfe4-87a0-4e8d-9a11-18c56188fc15" />
 
 
-## ☂️🌂🌞 Clients with no sales 🌞🌂☂️
+## ☂️🌂🌞 Clients with No Sales 🌞🌂☂️
 
 Over the past 36 months, 93.91% of the activity resulted in sales — a strong indicator of market demand and effective conversion.
 
@@ -114,7 +114,7 @@ Only 6.09% showed no sales, suggesting minimal friction in the sales funnel.
 <img width="255" height="191" alt="image" src="https://github.com/user-attachments/assets/6bb33c8e-6248-4f6d-aab6-d18cc3eec2b1" />
 
 
-## ☂️🌂🌞 Level X is the most transacting 🌞🌂☂️
+## ☂️🌂🌞 Level X is The Most Transacting 🌞🌂☂️
 
 Despite similar recency in transactions across all activity levels (18-19 months), there’s a clear difference in engagement: Level X clients are the most active, averaging 3.28 transactions, while Level Z clients are the least active, with just 1.22 transactions. 
 This suggests that activity level is driven more by transaction frequency over time than by recent transactions.
@@ -123,7 +123,7 @@ This suggests that activity level is driven more by transaction frequency over t
 
 
 
-## ☂️🌂🌞 Comparing profits of gender 🌞🌂☂️
+## ☂️🌂🌞 Comparing Profits of Gender 🌞🌂☂️
 
 For comparing profits of gender, Male and female customers generate almost the same median profit, but female customers show a slightly higher upper range and maximum value — reaching up to 5,865.6 vs. 5,400 for males.
 
@@ -132,7 +132,7 @@ While both genders perform similarly on average, female customers have more high
 <img width="203" height="293" alt="image" src="https://github.com/user-attachments/assets/e7cd28ac-1fd3-45c0-90b6-624225f288d4" />
 
 
-## ☂️🌂🌞 Proportion of total sales based on generations 🌞🌂☂️
+## ☂️🌂🌞 Proportion of Total Sales Based on Generations 🌞🌂☂️
 
 The proportion of total sales, sales are fairly evenly distributed across generations, with Gen Z leading slightly at 25.6%, followed closely by Boomers and Gen X at 25.5%, and Gen Y at 23.5%. 
 
@@ -142,7 +142,7 @@ This indicates a balanced contribution to total sales, with no single generation
 
 
 
-## ☂️🌂🌞 Proportion of avg sales based on generations 🌞🌂☂️
+## ☂️🌂🌞 Proportion of Avg Sales Based on Generations 🌞🌂☂️
 Gen X takes the lead! With the highest share of average sales at 27.1%, Gen X shows strong and consistent purchasing power. Gen Y follows closely at 26.2%, highlighting their value as a core consumer segment. Here is the objectives below:
 
 Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly reflecting different spending habits or lifestyle priorities. Shown as below :
@@ -151,7 +151,7 @@ Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly r
 <img width="230" height="254" alt="image" src="https://github.com/user-attachments/assets/04f4487e-6584-4f9b-9781-999bdf454a86" />
 
 
-## ☂️🌂🌞 Proportion of count of sales based on generations 🌞🌂☂️
+## ☂️🌂🌞 Proportion of Count of Sales Based on Generations 🌞🌂☂️
 
 Boomers dominate the numbers. With a massive 51.3% of total sales, Boomers clearly drive the most transactions—likely due to higher purchase frequency or loyalty. Gen X also plays a strong role at 29.9%, while Gen Y contributes moderately (17.5%). 
 
@@ -160,7 +160,7 @@ Interestingly, Gen Z accounts for only 1.3%, signaling a major engagement gap.
 <img width="232" height="254" alt="image" src="https://github.com/user-attachments/assets/c258ff61-474a-4a2a-8012-410a5f5c09bd" />
 
 
-## ☂️🌂🌞 Increase marketing vs sales performance 🌞🌂☂️
+## ☂️🌂🌞 Increase Marketing vs Sales Performance 🌞🌂☂️
 An increased number of direct promo messages generally leads to higher total sales, especially after surpassing 10 messages. However, fluctuations at certain points suggest that message quality, timing, or audience targeting may also significantly influence effectiveness.
 
 <img width="325" height="194" alt="image" src="https://github.com/user-attachments/assets/016112b5-70e4-46b2-b206-1833f1a2e736" />
