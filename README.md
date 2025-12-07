@@ -11,6 +11,7 @@ Please find dataset below:
 2. Dictionary : https://docs.google.com/spreadsheets/d/1YO7D80qVsSC73J1ERl-GqxYYLLDqdjE5/edit?usp=sharing&ouid=108812084155815508815&rtpof=true&sd=true
 
 ### Outline  :
+Please find outline below:
 
 1. Data Extraction
 2. Data Cleaning
