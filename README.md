@@ -159,6 +159,7 @@ Meanwhile, Boomers (24%) and Gen Z (22.7%) contribute slightly less—possibly r
 Boomers dominate the numbers. With a massive 51.3% of total sales, Boomers clearly drive the most transactions—likely due to higher purchase frequency or loyalty. Gen X also plays a strong role at 29.9%, while Gen Y contributes moderately (17.5%). 
 
 Interestingly, Gen Z accounts for only 1.3%, signaling a major engagement gap.
+Here is the objectives below:
 
 <img width="232" height="254" alt="image" src="https://github.com/user-attachments/assets/c258ff61-474a-4a2a-8012-410a5f5c09bd" />
 
