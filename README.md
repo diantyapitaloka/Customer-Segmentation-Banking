@@ -8,6 +8,8 @@ AI and Machine Learning (ML) move segmentation beyond basic demographics (like a
 
 Long-Term Purpose: The ultimate goal is to offer hyper-personalized products, services, and communication at the right time through the right channel. AI analyzes massive datasets—including real-time transaction history, channel usage (mobile vs. branch), sentiment analysis from call center logs, and web navigation—to predict individual customer needs and their propensity to purchase specific products (e.g., a mortgage, an investment product, or a personal loan).
 
+Benefit: This level of personalization significantly increases the Customer Lifetime Value (CLV) and leads to higher conversion rates for marketing campaigns, as customers receive offers that are genuinely relevant to their current financial situation and life stage.
+
 ### Dataset :
 Please find dataset below:
 
