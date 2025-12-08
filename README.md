@@ -4,6 +4,8 @@ The primary objective of this analysis is to thoroughly examine customer segment
 
 Furthermore, the insights gained from this research will be used to uncover new business opportunities that can strengthen customer engagement and encourage greater adoption of DaintyBank’s financial products. Ultimately, this analysis supports data-driven decision-making, optimizes product offerings, and enhances long-term customer relationships.
 
+AI and Machine Learning (ML) move segmentation beyond basic demographics (like age or income) to highly detailed behavioral, psychographic, and transactional segments.
+
 ### Dataset :
 Please find dataset below:
 
