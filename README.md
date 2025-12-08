@@ -10,6 +10,8 @@ Long-Term Purpose: The ultimate goal is to offer hyper-personalized products, se
 
 Benefit: This level of personalization significantly increases the Customer Lifetime Value (CLV) and leads to higher conversion rates for marketing campaigns, as customers receive offers that are genuinely relevant to their current financial situation and life stage.
 
+Market Segmentation in Banking is the process of partitioning the broad banking market into distinct subsets of customers who are expected to respond similarly to a particular marketing strategy. The segments created are identifiable, substantial (large and profitable enough to serve), accessible (reachable through marketing efforts), and responsive (different from other segments in their reaction to a marketing mix).
+
 ### Dataset :
 Please find dataset below:
 
