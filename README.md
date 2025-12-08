@@ -6,6 +6,8 @@ Furthermore, the insights gained from this research will be used to uncover new 
 
 AI and Machine Learning (ML) move segmentation beyond basic demographics (like age or income) to highly detailed behavioral, psychographic, and transactional segments.
 
+Long-Term Purpose: The ultimate goal is to offer hyper-personalized products, services, and communication at the right time through the right channel. AI analyzes massive datasets—including real-time transaction history, channel usage (mobile vs. branch), sentiment analysis from call center logs, and web navigation—to predict individual customer needs and their propensity to purchase specific products (e.g., a mortgage, an investment product, or a personal loan).
+
 ### Dataset :
 Please find dataset below:
 
