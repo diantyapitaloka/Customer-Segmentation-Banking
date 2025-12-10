@@ -13,6 +13,7 @@
 - Market Segmentation in Banking is the process of partitioning the broad banking market into distinct subsets of customers who are expected to respond similarly to a particular marketing strategy. The segments created are identifiable, substantial (large and profitable enough to serve), accessible (reachable through marketing efforts), and responsive (different from other segments in their reaction to a marketing mix).
 
 - The core principle is to move from mass marketing to targeted marketing. Instead of offering a generic checking account to everyone, a bank might create a "Student Success Account" for one segment and a "Premier Wealth Account" for another, recognizing their vastly different life stages, incomes, and financial goals.
+- Market segmentation in banking is the process of dividing a bank's entire customer base or potential market into smaller, distinct groups, or segments, that share similar characteristics, needs, or behaviors.
 
 ### Dataset :
 Please find dataset below:
