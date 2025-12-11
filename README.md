@@ -2,24 +2,17 @@
 
 - The primary objective of this analysis is to thoroughly examine customer segmentation to better understand the characteristics, behaviors, and purchasing patterns of DaintyBank’s customer base. By summarizing sales performance across different customer groups, this study aims to identify which segments contribute the most to revenue and which require further attention.
 - Additionally, the analysis seeks to develop comprehensive customer personas that represent key target audiences, enabling more personalized and effective marketing strategies.
-
 - Furthermore, the insights gained from this research will be used to uncover new business opportunities that can strengthen customer engagement and encourage greater adoption of DaintyBank’s financial products. Ultimately, this analysis supports data-driven decision-making, optimizes product offerings, and enhances long-term customer relationships.
-
 - AI and Machine Learning (ML) move segmentation beyond basic demographics (like age or income) to highly detailed behavioral, psychographic, and transactional segments.
-
 - Long-Term Purpose: The ultimate goal is to offer hyper-personalized products, services, and communication at the right time through the right channel. AI analyzes massive datasets—including real-time transaction history, channel usage (mobile vs. branch), sentiment analysis from call center logs, and web navigation—to predict individual customer needs and their propensity to purchase specific products (e.g., a mortgage, an investment product, or a personal loan).
-
 - Benefit: This level of personalization significantly increases the Customer Lifetime Value (CLV) and leads to higher conversion rates for marketing campaigns, as customers receive offers that are genuinely relevant to their current financial situation and life stage.
-
 - Market Segmentation in Banking is the process of partitioning the broad banking market into distinct subsets of customers who are expected to respond similarly to a particular marketing strategy. The segments created are identifiable, substantial (large and profitable enough to serve), accessible (reachable through marketing efforts), and responsive (different from other segments in their reaction to a marketing mix).
-
 - The core principle is to move from mass marketing to targeted marketing. Instead of offering a generic checking account to everyone, a bank might create a "Student Success Account" for one segment and a "Premier Wealth Account" for another, recognizing their vastly different life stages, incomes, and financial goals.
 - Market segmentation in banking is the process of dividing a bank's entire customer base or potential market into smaller, distinct groups, or segments, that share similar characteristics, needs, or behaviors.
 - Instead of treating all customers as one homogenous group, banks use segmentation to recognize the diversity in their market and tailor their products, services, marketing messages, and service delivery to meet the specific requirements of each segment. This allows the bank to operate more efficiently, enhance customer satisfaction, and improve profitability.
 - Market segmentation in banking is the process of dividing a bank's entire customer base or potential market into smaller, distinct groups, or segments, that share similar characteristics, needs, or behaviors.
-
 - Instead of treating all customers as one homogenous group, banks use segmentation to recognize the diversity in their market and tailor their products, services, marketing messages, and service delivery to meet the specific requirements of each segment. This allows the bank to operate more efficiently, enhance customer satisfaction, and improve profitability.
-- -Bases for Market Segmentation. Banks typically use a combination of different bases to create their segments. The main categories include: Demographic Segmentation: Dividing the market based on measurable population characteristics.
+- Bases for Market Segmentation. Banks typically use a combination of different bases to create their segments. The main categories include: Demographic Segmentation: Dividing the market based on measurable population characteristics.
 
 ### Dataset :
 Please find dataset below:
